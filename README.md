@@ -1,6 +1,9 @@
 # PandemoniumProtocol
 C&amp;C:Generals style RTS
 
+Скачать с Google Диск:
+[GoogleDriveLink](https://drive.google.com/file/d/1MUyM5szgDgpFMdbKhAGkCI3b3MLiMN7Y/view?usp=sharing)
+
 ![sadad3](https://github.com/svinokiller/PandemoniumProtocol/assets/115075748/f3fa8420-4d92-4238-892a-be058a74243c)
 
 В игре **«Протокол Столпотворения»** предстоит управлять своей базой, создавать боевые единицы и противостоять противнику. Игрок и его оппонент обладают зданием командного центра, уничтожение которого является **победным условием**. Однако, если игрок потеряет свой командный центр, то он проиграет.
