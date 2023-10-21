@@ -1,7 +1,7 @@
 # PandemoniumProtocol
 C&amp;C:Generals style RTS
 
-Скачать с Google Диск:
+Скачать build с Google Диск:
 [GoogleDriveLink](https://drive.google.com/file/d/1MUyM5szgDgpFMdbKhAGkCI3b3MLiMN7Y/view?usp=sharing)
 
 ![sadad3](https://github.com/svinokiller/PandemoniumProtocol/assets/115075748/f3fa8420-4d92-4238-892a-be058a74243c)
